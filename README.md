@@ -56,7 +56,7 @@ Python: Core programming language. Tkinter: GUI framework for the desktop applic
 
 🚀 Connect to an Online Database (MySQL/PostgreSQL) for remote access.
 
-
+![image alt](Screenshot 2025-03-19 220324.png)
 
 💻 Installation & Setup Follow these steps to run the project locally:
 
