@@ -56,7 +56,7 @@ Python: Core programming language. Tkinter: GUI framework for the desktop applic
 
 🚀 Connect to an Online Database (MySQL/PostgreSQL) for remote access.
 
-
+![image alt](https://github.com/vaibhavraok/Inventory-Management-System/blob/14c33451321463f34205602827340fa2fc92c28b/Screenshot%202025-03-19%20220324.png)
 
 💻 Installation & Setup Follow these steps to run the project locally:
 
